@@ -1,0 +1,7 @@
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\bin\Debug\10.1 практика.exe.config
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\bin\Debug\10.1 практика.exe
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\bin\Debug\10.1 практика.pdb
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\obj\Debug\10.1 практика.csproj.AssemblyReference.cache
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\obj\Debug\10.1 практика.csproj.CoreCompileInputs.cache
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\obj\Debug\10.1 практика.exe
+C:\Users\azare\Desktop\Для шараги\Основы алгоритмизации\10.1 практика\10.1 практика\obj\Debug\10.1 практика.pdb
